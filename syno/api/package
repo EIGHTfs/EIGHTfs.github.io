@@ -1,0 +1,32 @@
+{
+    "packages": [
+        {
+            "package": "deepseek-harness-nas",
+            "version": "0.1.1-2",
+            "dname": "DeepSeek Harness NAS",
+            "desc": "DeepSeek AI Agent Harness - 支持多模型和自定义 OpenAI 兼容端点",
+            "maintainer": "DeepSeek AI / EIGHTfs",
+            "maintainer_url": "https://github.com/deepseek-ai/deepseek-harness",
+            "distributor": "EIGHTfs",
+            "distributor_url": "https://github.com/EIGHTfs/DeepSeekHarness-NAS",
+            "arch": "x64",
+            "os_min_ver": "7.0-40851",
+            "link": "https://github.com/EIGHTfs/DeepSeekHarness-NAS/releases/download/v0.1.1-rc.2/deepseek-harness-nas_0.1.1-2_x86.spk",
+            "size": 96808960,
+            "md5": "bf4ff5021c26cdfce3e8984ad6f268d8",
+            "signature": "",
+            "thumbnail": [],
+            "snapshot": [],
+            "qinst": true,
+            "qupgrade": true,
+            "deps": "",
+            "conflict": "",
+            "start": true,
+            "silent_install": "no",
+            "silent_upgrade": "no",
+            "silent_uninstall": "no",
+            "beta": false,
+            "support_center": true
+        }
+    ]
+}
