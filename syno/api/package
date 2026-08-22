@@ -19,8 +19,16 @@
             "size": 96808960,
             "md5": "bf4ff5021c26cdfce3e8984ad6f268d8",
             "signature": "",
-            "thumbnail": [],
-            "snapshot": [],
+            "thumbnail": [
+                {
+                    "url": "https://EIGHTfs.github.io/syno/images/icon_72.png"
+                }
+            ],
+            "snapshot": [
+                {
+                    "url": "https://EIGHTfs.github.io/syno/images/icon_256.png"
+                }
+            ],
             "qinst": true,
             "qupgrade": true,
             "deps": "",
